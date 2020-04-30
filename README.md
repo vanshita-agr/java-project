@@ -25,6 +25,22 @@ Front End and Back End
 How project works?
 Some screenshots are given below:
 
+![](https://github.com/vanshita-agr/java-project/blob/master/1.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/2.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/3.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/4.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/5.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/6.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/7.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/8.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/9.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/10.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/11.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/12.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/13.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/14.png)
+![](https://github.com/vanshita-agr/java-project/blob/master/15.png)
+
   
  
 
@@ -33,15 +49,7 @@ Some screenshots are given below:
  
 
 
-Class Diagram
- 
-Activity Diagram
- 
 
-ER Diagram
- 
-
-Sequencial Diagram
 
 
  
